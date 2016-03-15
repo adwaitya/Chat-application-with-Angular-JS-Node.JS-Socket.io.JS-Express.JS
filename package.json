@@ -1,0 +1,11 @@
+{
+  "name": "chat-application",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.10.2",
+    "http": "*",
+    "path": "*",
+    "socket.io": ">= 0.9.6"
+  }
+}
